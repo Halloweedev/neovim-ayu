@@ -99,9 +99,9 @@ function colors.generate(mirage)
             colors.warning = '#FF8F40'
         end
     else
-        colors.accent = '#FFAA33'
-        colors.bg = '#F8F9FA'
-        colors.fg = '#5C6166'
+        colors.accent = '#FF7D1C'
+        colors.bg = '#FAFAFA'
+        colors.fg = '#5C6773'
         colors.ui = '#8A9199'
 
         colors.tag = '#55B4D4'

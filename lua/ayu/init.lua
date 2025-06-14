@@ -35,7 +35,7 @@ local function set_groups()
         ColorColumn = { bg = colors.lighter_gray },
         CursorColumn = { bg = colors.cursor_lines },
         CursorLine = { bg = colors.cursor_lines },
-        CursorLineNr = { fg = colors.accent, bg = colors.line },
+        CursorLineNr = { fg = colors.accent },
         LineNr = { fg = colors.guide_normal, bold = true },
         Cursor = { bg = colors.tag }, -- Character under the cursor in normal mode
         vCursor = { bg = colors.error }, -- Character under the cursor in visual mode
